@@ -1,6 +1,6 @@
 # flutter_card
 
-A new Flutter project.
+So simple app with one page by Flutter.
 
 ## Getting Started
 
